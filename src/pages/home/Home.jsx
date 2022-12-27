@@ -18,9 +18,9 @@ const Home = () => {
           <PropertyList />
           <h1 className="homeTitle">Stay at our top unique properties</h1>
           <FeaturedProperties/>
+
           <MailList/>
           <Footer />
-
 
         </div>
     </div>
