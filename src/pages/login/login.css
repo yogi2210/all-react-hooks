@@ -1,0 +1,31 @@
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.lContainer{
+    display: flex;
+    flex-direction: column; 
+    gap: 10px;
+
+}
+.lContainer>span{
+    color: red;
+}
+.lInput{
+    height: 40px;
+    padding:10px;
+    background-color: lightgray;
+    border: none;
+    font-size: 15px;
+}
+
+.lButton{
+    height: 40px;
+    font-size: 18px;
+    font-weight: 700;
+    background-color:#0071c2;
+    color: white;
+    border: none;
+}
